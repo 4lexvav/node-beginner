@@ -9,6 +9,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "dependencies": {
+    "formidable": "*"
+  },
   "engines": {
     "node": "9.x"
   },

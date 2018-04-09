@@ -1,3 +1,3 @@
-Telegram bot, which provides basic calculator functions
+Based on glitch course "node beginner"
 ========
 
